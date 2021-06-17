@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2c00d820-086d-471a-bc32-8b922f55de9a",
+    "name": "Beetle",
+    "releaseYear": 2020,
+    "avaible": true,
+    "gasAvaible": true
+  },
+  {
+    "id": "c956bc66-bb40-447d-997d-02c678d13a52",
+    "name": "Model S",
+    "releaseYear": 2020,
+    "avaible": true,
+    "gasAvaible": true
+  }
+]
